@@ -21,26 +21,7 @@ The Payment Application is designed to manage and process payments efficiently. 
 - npm (v6 or higher)
 - MongoDB (for database)
 
-### Steps
 
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/mrsamirr/payment-application.git
-    cd payment-application
-    ```
-
-2. **Install dependencies**:
-    ```sh
-    npm install
-    ```
-
-3. **Start the application**:
-    ```sh
-    npm start
-    ```
-
-4. **Access the application**:
-    Open your browser and go to `http://localhost:3000`
 
 ## Usage
 
